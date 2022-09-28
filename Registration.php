@@ -53,7 +53,7 @@
                         <td><button type="submit" class="btn btn-primary">Sign UP</button></td>
                     </tr>
                     <tr>
-                        <td><a href="Login.php">If you have already a user ?</a></td>
+                        <td><a href="index.php">If you have already a user ?</a></td>
                     </tr>
                 </table>
             </fieldset>
