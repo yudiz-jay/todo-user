@@ -11,7 +11,7 @@
 <body onload="display()">
   <nav>
     <ul>
-      <li><a href="Index.php" target="_self">Dashboard</a></li>
+      <li><a href="index.php" target="_self">Dashboard</a></li>
       <li><a class="active" href="Dashboard.php" target="_self">User Profile View</a></li>
       <li><a href="Profile.php" target="_self">Profile Edit</a></li>
       <li><a href="ChangePassword.php" target="_self">ChangePassword</a></li>
