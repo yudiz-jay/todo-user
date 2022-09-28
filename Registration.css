@@ -1,0 +1,45 @@
+form{
+    border-radius: 8px; 
+    margin-top: 20px; 
+    padding: 5px; 
+    width:50%;
+}
+
+h3{
+    color: black;
+    text-shadow: 5px 5px 5px white;
+}
+
+button{
+    color: white;
+    background-color: skyblue;
+    border-color: skyblue;
+}
+
+button:hover{
+    background-color: black;
+}
+
+span{
+    color: red;
+}
+
+table{
+    text-align: left;
+    
+}
+
+a{
+    color:black;
+    align-items: center;
+}
+
+.validator{
+    color: red;
+}
+
+fieldset{
+    background-color: lightpink;
+    box-shadow: -15px 20px 10px #888;
+}
+
